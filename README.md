@@ -1,4 +1,11 @@
-### Hi there 👋
+# Bruno Sousa 👨‍💻👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunosousadev/)](https://github.com/brunosousadev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosousa01//)](https://www.linkedin.com/in/brunosousa01/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brse01@gmail.com)](mailto:brse01@gmail.com)
+
+## Hi there 👋  
+###  Welcome to my profile :octocat:
 
 <!--
 **brunosousadev/brunosousadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
